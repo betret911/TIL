@@ -7,3 +7,17 @@
 
 - 빅오 표기법 : O(N), 함수의 상한만을 나타냄<br>
   <img src="img\big-o-notation.jpg" width= "300">
+
+## 시간과 메모리 측정
+
+- 파이썬 수행 시간 측정 소스코드 예시
+  ```py
+  import time
+  start_time = time.time()
+
+  # 소스 코드
+  end_time = time.time()
+  print("time :", end_time - start_time)
+  ```
+
+  
