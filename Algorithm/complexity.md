@@ -6,4 +6,4 @@
 ## 시간 복잡도
 
 - 빅오 표기법 : O(N), 함수의 상한만을 나타냄<br>
-  <img src="image\big-o-notation.jpg" width= "300">
+  <img src="img\big-o-notation.jpg" width= "300">
